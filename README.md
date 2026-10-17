@@ -1,8 +1,7 @@
-﻿# Raider Tracker — downloads
+﻿# Raider Tracker
 
-Aplicativo de Windows do **Raider Tracker**, um planejador PvE para ARC Raiders feito por um fã. Este repositório só publica os instaladores e as atualizações do app.
+Planejador de ARC Raiders para Windows: metas de oficinas, itens que faltam, rota de farm e receitas, tudo em português.
 
-- Sem conta, sem login: o progresso fica no seu computador.
-- Projeto de fã, sem fins lucrativos. **Não é afiliado nem aprovado pela Embark Studios.** ARC Raiders e as marcas relacionadas pertencem aos seus donos.
+**Baixe a versão mais recente na aba [Releases](https://github.com/athurcos-cmyk/raider-tracker/releases/latest).**
 
-Baixe a versão mais recente na aba **Releases**.
+Raider Tracker não é afiliado, aprovado nem patrocinado pela Embark Studios. ARC Raiders e as marcas relacionadas pertencem aos seus respectivos donos.
